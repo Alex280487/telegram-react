@@ -34,12 +34,12 @@ Open http://localhost:3000 to view it in the browser.
 
 1. **Update *homepage* property at the app's `package.json` file.**
 
-Define its value to be the string `http://{username}.github.io/{repo-name}`, where `{username}` is your GitHub username, and `{repo-name}` is the name of the GitHub repository. Since my GitHub username is `evgeny-nadymov` and the name of my GitHub repository is `telegram-react`, I added the following property:
+Define its value to be the string `http://N.Alex..github.io/{repo-name}`, where `{N_Alex_S}` is your GitHub username, and `{N_Alex_S}` is the name of the GitHub repository. Since my GitHub username is `evgeny-nadymov` and the name of my GitHub repository is `telegram-react`, I added the following property:
     
 ```js
 //...
 "homepage": "http://evgeny-nadymov.github.io/telegram-react"
-```
+1000000000000000000000
     
 2. **Generate a *production build* of your app and deploy it to GitHub Pages.**
 
